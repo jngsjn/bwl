@@ -24,7 +24,7 @@ export default function Home() {
       <main>
         <section>
           <h1>
-            Let's make this wave on!
+            Let&apos;s make this wave on!
           </h1>
           <p>
             여기는 블록 웨이브 랩스의 미션 이나 목표를  한 문장으로 적는 곳입니다.
